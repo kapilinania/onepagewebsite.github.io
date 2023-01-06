@@ -1,0 +1,206 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	width: 100%;
+    height: auto;
+	background:url(images/waves_.jpg) fixed ;
+	background-size: cover;
+	border: 0px solid red;
+}
+.head{
+	width: 1000px;
+	margin: auto;
+	background:url(images/headerbg.jpg) fixed ;
+	background-size:cover;
+	border:0px solid blue;
+	
+}
+.header{
+	width: 100%;
+    background:url(images/gridtile.png);
+    border-bottom: 10px solid #0083ce;
+}
+.logo{
+	border:0px solid red;
+	display: table;
+	margin:auto;
+	padding-top:50px;
+}
+.head h4{
+	font-size: 35px;
+	color:white;
+	margin: auto;
+	border-top: 2px solid #0083ce;
+	border-bottom: 2px solid #0083ce;
+	display: table;
+	padding: 30px;
+	margin-top:100px;
+	font-family: Arial;
+}
+.menu{
+	margin: auto;
+	border: 0px solid red;
+	display: table;
+	margin-top: 8%;
+	padding-top: 8%;
+}
+.menu ul li{
+	font-size: 14px;
+	text-align: center;
+	display: block;
+	border-right: 2px solid white;
+	display: inline-block;
+	padding:14px 45px;
+	padding-left: 10px;
+	color: white;
+	font-weight: bold;
+	font-family: Arial;
+}
+.menu ul li:last-child{
+	border: none;
+}
+.menu ul li a{
+	text-decoration: none;
+	color: white;
+}
+
+/*middle part is started*/
+.main_middle{
+	width: 100%;
+	height: auto;
+	border: 0px solid orange;
+}
+.middle{
+	width: 100%;
+	height: auto;
+	background:url(images/3.jpg) fixed center ;
+	background-size: cover;
+	border: 0px solid red;
+	height: 200px;
+}
+.rgba{
+	width:100%;
+	height: 100%;
+	background:rgb(0,0,0,0.5);
+	position: relative;
+	border: 0px solid red;
+
+}
+.middle_home{
+	font-size: 25px;
+	font-weight:bold;
+	color: white;
+	padding: 10px 30px;
+	border: 10px solid white;
+	display: table;
+	margin:auto;
+	color: white;
+	position: absolute;
+	bottom:100px;
+	left: 400px;
+}
+.one_middle{
+	width: 100%;
+	height: 550px;
+	background-color: white;
+}
+.one_middle p{
+    font-family: arial;
+    font-size: 20px;
+    color: black;
+    padding-left: 10px;
+    line-height: 30px;
+    text-align: justify;
+    border: 0px solid red;
+    padding-top: 50px;
+} 
+.one_middle h5{
+	font-weight: bold;
+	padding: 10px;
+	font-family: arial;
+	border: 0px solid red;
+    font-size: 17px;
+    display: table;
+    display: table;
+	margin: auto;
+	margin-top: 6%;
+}
+.one_middle h6{
+	font-family: arial;
+	border: 0px solid red;
+	font-size: 15px;
+	display: table;
+	margin: auto;
+	padding: 5px;
+}
+.one_middleimg{
+	height: 50px;
+	border:0px solid red;
+	display: table;
+	margin:auto;
+	margin-top: 4%;
+}
+.middle_back{
+	font-family: airal;
+	font-size: 30px;
+	border: 0px solid red;
+	display: table;
+	margin: auto;
+	padding-top: 15px;
+	margin-top: 10px;
+}
+.about{
+	width: 100%;
+	height: auto;
+	background:url(images/1.jpg) fixed center ;
+	background-size: cover;
+	border: 0px solid red;
+	height: 200px;
+}
+
+.service{
+	width: 100%;
+	height: auto;
+	background:url(images/2.jpg) fixed center ;
+	background-size: cover;
+	border: 0px solid red;
+	height: 200px;
+}
+.training{
+	width: 100%;
+	height: auto;
+	background:url(images/banner-7.jpg) fixed center ;
+	background-size: cover;
+	border: 0px solid red;
+	height: 200px;
+}
+.contact{
+	width: 100%;
+	height: auto;
+	background:url(images/4.jpg) fixed center ;
+	background-size: cover;
+	border: 0px solid red;
+	height: 200px;
+}
+.bottompart{
+	border: 1px solid red;
+	background-color: brown;
+	width: 1000px;
+	color: white;
+}
+.bottompart h1{
+	display: table;
+	margin: auto;
+	font-family: airal;
+	font-size: 30px;
+}
+.bottompart p{
+	display: table;
+	margin: auto;
+	font-family: airal;
+	font-size: 15px;
+	padding: 10px;
+}
